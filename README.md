@@ -1,1 +1,1 @@
-# spokestack-cpp
+# Spokestack Embedded
